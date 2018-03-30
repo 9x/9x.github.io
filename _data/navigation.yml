@@ -1,9 +1,10 @@
 # main links
 main:
-  - title: "Travel Blog"
+  - title: "About"
+    url: https://9x.github.io/about/
+  - title: "My Travel Blog"
     url: https://nothingtodeclare.net
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
